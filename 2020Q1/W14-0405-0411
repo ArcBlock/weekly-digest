@@ -1,0 +1,170 @@
+# ArcBlock Engineering Weekly Digest (04-05 ~ 04-11)
+
+> Generated on 2020-04-13 13:10
+
+## Summary
+
+* Pushed **159** commits to master branch
+* Created **46** pull requests, merged **42**
+* Resolved and closed **80** issues
+* Crafted and deployed **15** internal releases
+
+## Repo Details
+
+| Repo Name                   | Commits | Pull Requests            | Issues    | Releases                     |
+| --------------------------- | ------- | ------------------------ | --------- | ---------------------------- |
+| ArcBlock/www-learning       | 28      | 10 (10 merged, 0 active) | closed 10 | -                            |
+| ArcBlock/arc-wallet-ios     | 28      | 5 (5 merged, 0 active)   | closed 24 | -                            |
+| ArcBlock/arc-wallet-android | 19      | 5 (5 merged, 0 active)   | closed 5  | published 5 , latest v2.5.13 |
+| ArcBlock/token-swap-js      | 20      | 4 (4 merged, 0 active)   | closed 13 | published 9 , latest v1.1.8  |
+| ArcBlock/accelerator        | 6       | 3 (3 merged, 0 active)   | closed 3  | -                            |
+| ArcBlock/forge-webapp       | 10      | 2 (2 merged, 0 active)   | closed 3  | -                            |
+| ArcBlock/forge-token-swap   | 2       | 2 (2 merged, 0 active)   | closed 3  | published 1 , latest v0.28.0 |
+| ArcBlock/ux                 | 9       | 2 (2 merged, 0 active)   | closed 3  | -                            |
+| ArcBlock/forge-js           | 6       | 2 (2 merged, 0 active)   | closed 3  | -                            |
+| ArcBlock/abt-node           | 0       | 2 (0 merged, 2 active)   | closed 0  | -                            |
+| ArcBlock/www                | 15      | 2 (2 merged, 0 active)   | closed 2  | -                            |
+| ArcBlock/forge-release      | 1       | 1 (1 merged, 0 active)   | closed 1  | -                            |
+| ArcBlock/xmark              | 0       | 1 (0 merged, 1 active)   | closed 1  | -                            |
+| ArcBlock/forge-deploy       | 1       | 1 (1 merged, 0 active)   | closed 1  | -                            |
+| ArcBlock/blocklets          | 8       | 1 (1 merged, 0 active)   | closed 5  | -                            |
+| ArcBlock/gatsby-extensions  | 3       | 1 (1 merged, 0 active)   | closed 1  | -                            |
+| ArcBlock/forge-docs         | 0       | 1 (0 merged, 1 active)   | closed 0  | -                            |
+| ArcBlock/did-connect        | 3       | 1 (1 merged, 0 active)   | closed 2  | -                            |
+
+**Notice: we have removed changes by line of code because GitHub API is not returning correct data**
+
+## Activity Details
+
+### Merged Pull Requests
+
+- [www-learning] add: blockchain application slides(#248) 04-11
+- [www-learning] add: verifiable credentials slides(#247) 04-10
+- [www-learning] update for training slides(#246) 04-10
+- [www-learning] add: Interconnected Blockchains Slides(#245) 04-09
+- [www-learning] add: Cross-Chain Slides(#244) 04-09
+- [www-learning] add: 2 blockchain slides(#243) 04-09
+- [www-learning] add: Blockchain 101 Slides(#242) 04-08
+- [www-learning] update(#241) 04-06
+- [www-learning] update(#240) 04-06
+- [www-learning] webview(#239) 04-06
+- [arc-wallet-ios] fix #577(#558) 04-11
+- [arc-wallet-ios] support skip hash case and upgrade to xcode 13.4(#556) 04-11
+- [arc-wallet-ios] bug fixes(#555) 04-10
+- [arc-wallet-ios] bug fixes(#546) 04-09
+- [arc-wallet-ios] bug fixe(#541) 04-08
+- [arc-wallet-android] fix signature bug(#719) 04-10
+- [arc-wallet-android] add hide balance button(#717) 04-09
+- [arc-wallet-android] block swipe if digest not match origin(#716) 04-09
+- [arc-wallet-android] bug fix 4-8(#715) 04-08
+- [arc-wallet-android] Tag user own account(#712) 04-06
+- [token-swap-js] Update gen code(#188) 04-09
+- [token-swap-js] some improvements(#187) 04-09
+- [token-swap-js] Fix create deposit batch error(#186) 04-08
+- [token-swap-js] work for 1.1 milestone(#180) 04-07
+- [accelerator] matt(#358) 04-10
+- [accelerator] add: China MKTG 20200410(#357) 04-10
+- [accelerator] Sprint 20200407(#356) 04-07
+- [forge-webapp] Fix builds(#291) 04-10
+- [forge-webapp] modify network switcher icon(#289) 04-08
+- [forge-token-swap] Add security features for withdraw.(#208) 04-07
+- [forge-token-swap] chore: add missing javascript build command(#206) 04-09
+- [ux] add price table and bridge sdk(#118) 04-07
+- [ux] BaseLayout中的links改为可选(#117) 04-06
+- [forge-js] chore: make hash method an configuration for signature claims(#451) 04-10
+- [forge-js] Fix too much params makes qrcode hard to recognize(#449) 04-07
+
+- [www] 修改 ossutil64 & ALIYUN_ACCESS_KEY  名称(#250) 04-06
+- [www] [skip ci] Add deploy script(#249) 04-05
+- [forge-release] retire version little than v1.0.0(#80) 04-09
+
+- [forge-deploy] Add two chains LBD and AUSD.(#32) 04-07
+- [blocklets] chore: prepare blocklets.json for marketplace(#25) 04-07
+- [gatsby-extensions] Add pre next button(#100) 04-07
+
+- [did-connect] fix appIcon uploader and did auth(#170) 04-10
+
+### Closed Issues
+
+- [www-learning] add: blockchain application slides(#248) 04-11
+- [www-learning] add: verifiable credentials slides(#247) 04-10
+- [www-learning] update for training slides(#246) 04-10
+- [www-learning] add: Interconnected Blockchains Slides(#245) 04-09
+- [www-learning] add: Cross-Chain Slides(#244) 04-09
+- [www-learning] add: 2 blockchain slides(#243) 04-09
+- [www-learning] add: Blockchain 101 Slides(#242) 04-08
+- [www-learning] update(#241) 04-06
+- [www-learning] update(#240) 04-06
+- [www-learning] webview(#239) 04-06
+- [arc-wallet-ios] fix #577(#558) 04-11
+- [arc-wallet-ios] support skip hash case and upgrade to xcode 13.4(#556) 04-11
+- [arc-wallet-ios] bug fixes(#555) 04-10
+- [arc-wallet-ios] Privacy option to not display total assets on the home screen for large accounts (#554) 04-09
+- [arc-wallet-ios] “Unknow app” but it looks like it’s an know one (#553) 04-10
+- [arc-wallet-ios] iOS can’t handle playground “multi Params” case(#551) 04-10
+- [arc-wallet-ios] Play ground “Multiple claims” transaction page is empty(#550) 04-10
+- [arc-wallet-ios] Playground’s “Sign digest” cause error (#548) 04-09
+- [arc-wallet-ios] A white strip appear in iPad when page scroll up(#547) 04-10
+- [arc-wallet-ios] bug fixes(#546) 04-09
+- [arc-wallet-ios] Sign text, html UI all display nothing (#545) 04-09
+- [arc-wallet-ios] Everything is tagged as “yourself” (#544) 04-09
+- [arc-wallet-ios] Disable Face ID screen button show as enable (#543) 04-09
+- [arc-wallet-ios] Should clear localstorage in webview when clearing wallet data(#542) 04-09
+- [arc-wallet-ios] bug fixe(#541) 04-08
+- [arc-wallet-ios] URGENT/SECURITY Issue: iOS app can turn off face ID without verify user's password (#540) 04-08
+- [arc-wallet-ios] 转帐记录里自己的其他账户之间的互转应该特殊标记起来，账户的名称也应该显示出来(#538) 04-08
+- [arc-wallet-ios] App ‘s “...” menu is set to crash on ipad(#537) 04-08
+- [arc-wallet-ios] “...” menu show nothing on iPad version (#535) 04-08
+- [arc-wallet-ios] Send will crash on iPad (2.5.5)(#534) 04-08
+- [arc-wallet-ios] Unarchive actionsheet behavior isn’t same as previous page(#533) 04-08
+- [arc-wallet-ios] User won’t  know which address has been selected (#532) 04-08
+- [arc-wallet-ios] If there is a problem the icon should be red(#531) 04-08
+- [arc-wallet-ios] “decline” on DID auth UI takes ~ 1 second to response. (#529) 04-10
+- [arc-wallet-android] fix signature bug(#719) 04-10
+- [arc-wallet-android] add hide balance button(#717) 04-09
+- [arc-wallet-android] block swipe if digest not match origin(#716) 04-09
+- [arc-wallet-android] bug fix 4-8(#715) 04-08
+- [arc-wallet-android] Tag user own account(#712) 04-06
+- [token-swap-js] Update gen code(#188) 04-09
+- [token-swap-js] some improvements(#187) 04-09
+- [token-swap-js] Fix create deposit batch error(#186) 04-08
+- [token-swap-js] work for 1.1 milestone(#180) 04-07
+- [token-swap-js] Account 界面同时还显示一些聚合的信息(#178) 04-08
+- [token-swap-js] 驳回的操作不是在create report期间做的，而是在之前选择画面上完成(#177) 04-08
+- [token-swap-js] 把看账户信息打开new tab变成navigat(#161) 04-07
+- [token-swap-js] 按用户账户直接查询过去token的状态的能力(#160) 04-08
+- [token-swap-js] Gas station 油费低到一定程度的时候显示为红色(#148) 04-07
+- [token-swap-js] 显示gas station 和 hotwallet的eth 地址并可copy(#147) 04-09
+- [token-swap-js] 确认数大于12的未确认交易不要展示出来(#144) 04-09
+- [token-swap-js] 需要更容易的风控标记能力(#131) 04-09
+- [token-swap-js] 已驳回的在右侧出一个取消的按钮，不然用户可能不知道(#107) 04-07
+- [accelerator] matt(#358) 04-10
+- [accelerator] add: China MKTG 20200410(#357) 04-10
+- [accelerator] Sprint 20200407(#356) 04-07
+- [forge-webapp] Fix builds(#291) 04-10
+- [forge-webapp] modify network switcher icon(#289) 04-08
+- [forge-webapp] 优化 network switcher 的图标(#288) 04-10
+- [forge-token-swap] Create swept batch cause error(#209) 04-09
+- [forge-token-swap] Add security features for withdraw.(#208) 04-07
+- [forge-token-swap] chore: add missing javascript build command(#206) 04-09
+- [ux] add price table and bridge sdk(#118) 04-07
+- [ux] BaseLayout中的links改为可选(#117) 04-06
+- [ux] [Proposal] Price design for inspiration(#100) 04-07
+- [forge-js] chore: make hash method an configuration for signature claims(#451) 04-10
+- [forge-js] Fix too much params makes qrcode hard to recognize(#449) 04-07
+- [forge-js] 当二维码里面参数过多的话会导致钱包扫码失败(#448) 04-07
+
+- [www] 修改 ossutil64 & ALIYUN_ACCESS_KEY  名称(#250) 04-06
+- [www] [skip ci] Add deploy script(#249) 04-05
+- [forge-release] retire version little than v1.0.0(#80) 04-09
+- [xmark] Easy way to customize CSS(#36) 04-11
+- [forge-deploy] Add two chains LBD and AUSD.(#32) 04-07
+- [blocklets] chore: prepare blocklets.json for marketplace(#25) 04-07
+- [blocklets] Blocklets should have a type, only certain blocklet can be installed from new web based blocklet management interface(#17) 04-07
+- [blocklets] adjust button margins for phones/small devices(#12) 04-07
+- [blocklets] layout of public pages(#9) 04-07
+- [blocklets] add description of (#7) 04-07
+- [gatsby-extensions] Add pre next button(#100) 04-07
+
+- [did-connect] fix appIcon uploader and did auth(#170) 04-10
+- [did-connect] 保存login设置的时候，扫码报错“appId or appDid param is required”(#169) 04-10
